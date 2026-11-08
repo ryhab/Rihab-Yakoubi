@@ -1,12 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b7cf6,50:93c5fd,100:bbf7d0&height=200&section=header&text=Rihab%20Yakoubi&fontSize=48&fontColor=ffffff&desc=DevOps%20%E2%80%A2%20IAM%20%E2%80%A2%20Cloud%20%26%20FinOps&descSize=20&descAlignY=72" alt="Rihab Yakoubi" />
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b7cf6,50:93c5fd,100:bbf7d0&height=200&section=header&text=Rihab%20Yakoubi&fontSize=48&fontColor=ffffff&desc=DevOps%20%E2%80%A2%20IAM%20%E2%80%A2%20Cloud%20%E2%80%A2%20FinOps&descSize=20&descAlignY=72" alt="Rihab Yakoubi" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Based%20in-Berlin-8b7cf6?style=flat-square" /> <img src="https://img.shields.io/badge/Experience-8%2B%20years-93c5fd?style=flat-square" /> <img src="https://img.shields.io/badge/Focus-IAM%20%7C%20Cloud%20%7C%20FinOps-34d399?style=flat-square" /> </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Based%20in-Berlin-8b7cf6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Experience-8%2B%20years-93c5fd?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-IAM%20%7C%20Cloud%20%7C%20FinOps-34d399?style=flat-square" />
-</p>
 
 ## 👋 About me
 
